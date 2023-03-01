@@ -1,0 +1,26 @@
+{
+	"name": "ionique",
+	"version": "0.1.0",
+	"description": "Open Source Web Components Library",
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"css",
+		"scss",
+		"responsive",
+		"typescript",
+		"components",
+        "front-end",
+        "ui-kit"
+	],
+	"author": "Gaztea",
+	"license": "GPL-3.0-or-later",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/allogaztea/ionique"
+	},
+	"bugs": {
+		"url": "https://github.com/allogaztea/ionique/issues"
+	}
+}
