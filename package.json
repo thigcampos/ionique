@@ -5,14 +5,15 @@
 	"publishConfig": {
 		"access": "public"
 	},
+	"homepage": "https://github.com/allogaztea/ionique#readme",
 	"keywords": [
 		"css",
 		"scss",
 		"responsive",
 		"typescript",
 		"components",
-        "front-end",
-        "ui-kit"
+		"front-end",
+		"ui-kit"
 	],
 	"author": "Gaztea",
 	"license": "GPL-3.0-or-later",
@@ -22,5 +23,10 @@
 	},
 	"bugs": {
 		"url": "https://github.com/allogaztea/ionique/issues"
+	},
+	"dependencies": {
+		"lit": "^2.6.1",
+		"sass": "^1.58.3",
+		"typescript": "^4.9.5"
 	}
 }
