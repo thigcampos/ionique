@@ -1,6 +1,6 @@
 # Write Awesome Web Components
 
-###### par gaztea
+###### par garzea
 
 Want to create awesome web components? Our quick guide has got you covered! If you're interested in contributing to Ionique, Write Awesome We Components is a must read for you. It's simple and accessible to developers of all levels. Let's get started!
 
